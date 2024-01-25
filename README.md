@@ -67,9 +67,9 @@ Follow these steps to run the Weather App locally:
 1. **Clone the Repository and Install Dependencies:**
    - Clone the repository and navigate to the project directory. Run `npm install` to install dependencies.
    ```bash
-    git clone https://github.com/your-username/your-app.git
+    git clone https://github.com/StefanyVasc/weather-app.2.0.git
 
-    cd your-app
+    cd weather-app.2.0
     npm install
     ```
 
